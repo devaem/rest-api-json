@@ -1,0 +1,24 @@
+[
+	{
+		"nama" : "Deva Ega Marinda",
+		"umur" : 19,
+		"nim" : "1901530001",
+		"lulus" : true,
+		"hobi" : ["coding", "gaming"],
+		"pembimbing" : {
+			"pembimbing1" : "Fikky Ardianto",
+			"Pembimbing2" : "Indah Almasari"
+		}
+	},
+	{
+		"nama" : "Deva Ega Marinda",
+		"umur" : 19,
+		"nim" : "1901530001",
+		"lulus" : true,
+		"hobi" : ["coding", "gaming"],
+		"pembimbing" : {
+			"pembimbing 1" : "Fikky Ardianto",
+			"Pembimbing 2" : "Indah Almasari"
+		}
+	}
+]
